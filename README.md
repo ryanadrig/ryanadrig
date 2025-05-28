@@ -1,4 +1,6 @@
-## Hi there 👋
+##  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanadrig&layout=compact&langs_count=10&exclude_repo=react_Tetris,SI_TweetMap,si_rtc,ryanadrig.github.io&theme=highcontrast)
 
 <!--
 **ryanadrig/ryanadrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
